@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://18.169.242.220:8089/temi/repository/project-snapshot/</url>
+	      <url>http://18.169.242.220:8089/temi/repository/declarative-pipe-release/
 	    </snapshotRepository>
 	    
 	</distributionManagement>
